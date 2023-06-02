@@ -1,6 +1,6 @@
 <h1>
   <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="40"/> 
-  Eyyo! It's <code><b>::<></b></code>
+  Eyyo! It's <code><b>camel_case</b></code>
   <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="40"/> 
 </h1>
 
@@ -19,15 +19,14 @@
 - ⭐ &nbsp; If you like my projects, I like to observe milkyway to the last detail
 
 <pre>
-The ::<> is an highschool junior ("almost") and wants to be a CS major
-It writes code, for amusement ofc, It likes Rust (As you guessed)
+I'm an highschool junior ("almost") and want to be a CS major
+I write code, for amusement ofc, I like Rust (As you guessed)
 
 Shortly, It's still in dev.
 </pre>
   
 <br>
   
-
 ----------------
 
 <!-- Upper Git stats -->
