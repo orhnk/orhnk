@@ -62,5 +62,5 @@ Shortly, It's still in dev.
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 <!-- Contact -->
-<a href="discordapp.com/users/588853168301932603"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://discord.com/users/588853168301932603"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://mail.google.com/mail/u/?authuser=camelunderscorecase@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
