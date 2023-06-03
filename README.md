@@ -4,7 +4,11 @@
   <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="40"/> 
 </h1>
 
-<img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/nGMnDqebzDcfm/giphy.webp" width="360px"/>
+<!-- Image on left -->
+  <!-- Coding Cowboy -->
+  <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/nGMnDqebzDcfm/giphy.webp" width="360px"/>
+  <!-- Coding Cartoon Crab -->
+  <!-- <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.webp" width="360px"/> -->
 
 <h3>
   <img src="https://media.tenor.com/PqFN1orijJ4AAAAi/crab-sneeth.gif" width="40"/> 
