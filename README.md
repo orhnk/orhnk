@@ -19,17 +19,18 @@
 - ⭐ &nbsp; If you like my projects, I like to observe milkyway to the last detail
 
 <pre>
-I'm an highschool junior ("almost") and want to be a CS major
-I write code, for amusement ofc, I like Rust (As you guessed)
+I'm a highschool junior ("almost") and want to be a CS major
+I write code (for amusement ofc) I like Rust, Coffee and Pinkfloyd.
 
-Shortly, It's still in dev.
+Shortly, I'm still in dev.
 </pre>
-  
+
 <br>
   
 ----------------
 
 <!-- Upper Git stats -->
+
 ![follow](https://img.shields.io/github/followers/UTFeight.svg?style=social&label=Follow&maxAge=2592000)
 ![watchers](https://img.shields.io/github/watchers/UTFeight/UTFeight.svg)
 ![stars](https://img.shields.io/github/stars/UTFeight/UTFeight.svg)
@@ -62,5 +63,6 @@ Shortly, It's still in dev.
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 <!-- Contact -->
+
 <a href="https://discord.com/users/588853168301932603"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://mail.google.com/mail/u/?authuser=camelunderscorecase@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
