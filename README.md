@@ -24,7 +24,7 @@
 
 <pre>
 I'm a highschool junior ("almost") and want to be a CS major
-I write code (for amusement ofc) I like Rust, Coffee and Pinkfloyd.
+I write code (for amusement ofc) I like Rust, Neovim and Arch
 
 Shortly, I'm still in dev.
 </pre>
