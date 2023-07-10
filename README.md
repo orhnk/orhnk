@@ -17,7 +17,7 @@
 </h3>
   
 - 🚀 &nbsp; Working on **Rascii**
-- 🌱 &nbsp; Learning C++; 
+- 🌱 &nbsp; Learning Deustch; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/UTFeight?tab=repositories)
 - 🎨 &nbsp; Love the [Gruvbox Theme](https://github.com/morhetz/gruvbox)
 - ⭐ &nbsp; If you like my projects, I like to observe milkyway to the last detail
