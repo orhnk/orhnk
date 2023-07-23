@@ -16,17 +16,14 @@
   <img src="https://media.tenor.com/JqHpW37XDcsAAAAi/crab-crab-rave.gif" width="40"/> 
 </h3>
   
-- 🚀 &nbsp; Working on **Rascii**
 - 🌱 &nbsp; Learning Deustch; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/UTFeight?tab=repositories)
 - 🎨 &nbsp; Love the [Gruvbox Theme](https://github.com/morhetz/gruvbox)
 - ⭐ &nbsp; If you like my projects, I like to observe milkyway to the last detail
 
 <pre>
-I'm a highschool junior ("almost") and want to be a CS major
-I write code (for amusement ofc) I like Rust, Neovim and Arch
-
-Shortly, I'm still in dev.
+I code. I arch. I neovim.
+  ... thank you.
 </pre>
 
 <br>
