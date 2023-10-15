@@ -24,12 +24,22 @@
 - 🔥 &nbsp; Rust developer
 - 🔇 &nbsp; Embraces silence
 - ✨ &nbsp; Trying to be a minimalist
-- 🐮 &nbsp; Not a nerd (kinda)
+- ⚡ &nbsp; Working on [Merge Programming Language](https://github.com/utfeight/merge)
+- ⌨️ &nbsp; Arch Linux + DWM user (also Neovim & Emacs)
+- 🏳️ &nbsp; (former) Debian, Hyprland, JetBrains.
 
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <!-- ![UTFeight](https://github-readme-stats.vercel.app/api/top-langs/?username=UTFeight&theme=gruvbox) -->
-<!--<img align="right" alt="UTFeight Github Stat" src="https://github-readme-stats.vercel.app/api?username=UTFeight&theme=gruvbox" width="360px"/>
-  
+<!--<img align="right" alt="UTFeight Github Stat" src="https://github-readme-stats.vercel.app/api?username=UTFeight&theme=gruvbox" width="360px"/> -->
+
+
 <!-- Loved Tech -->
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
