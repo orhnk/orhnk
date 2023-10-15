@@ -22,7 +22,7 @@
 - 🌱 &nbsp; Learning Deustch
 - 🎨 &nbsp; Fan of the [gruvbox pallette](https://github.com/morhetz/gruvbox)
 - 🔥 &nbsp; Rust developer
-- 🔇 &nbsp; Like silence
+- 🔇 &nbsp; Embraces silence
 - ✨ &nbsp; Trying to be a minimalist
 - 🐮 &nbsp; Not a nerd (kinda)
 
