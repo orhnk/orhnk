@@ -62,7 +62,7 @@
 -----
 
 <p align="center">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utfeight"/>
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utfeight&hide=jupyter%20notebook"/>
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=utfeight&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=camel_case"/>  
 </p>
