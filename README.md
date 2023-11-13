@@ -27,8 +27,8 @@
   - 🔇 &nbsp; Embraces silence
   - ✨ &nbsp; Trying to be a minimalist
   - ⚡ &nbsp; Working on [Merge Programming Language](https://github.com/utfeight/merge)
-  - ⌨️ &nbsp; Arch Linux + DWM user (also Neovim & Emacs)
-  - 🏳️ &nbsp; (former) Debian, Hyprland, JetBrains.
+  - ⌨️ &nbsp; NixOS + DWM user (also Neovim & Emacs)
+  - 🏳️ &nbsp; former Arch, Debian, Hyprland, JetBrains user.
 
 </p>
 
