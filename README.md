@@ -11,34 +11,21 @@
 <!-- <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/nGMnDqebzDcfm/giphy.webp" width="360px"/> -->
 <!-- Coding Cartoon Crab -->
 <!-- <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.webp" width="360px"/> -->
-<p align="center">  
 
+<!--
+<p align="center">  
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
   <h3>
     <img src="https://media.tenor.com/PqFN1orijJ4AAAAi/crab-sneeth.gif" width="40"/> 
     <strong>About</strong>
     <img src="https://media.tenor.com/JqHpW37XDcsAAAAi/crab-crab-rave.gif" width="40"/> 
   </h3>
-
-  - 🌱 &nbsp; Learning Deustch
-  - 🎨 &nbsp; Fan of the [gruvbox pallette](https://github.com/morhetz/gruvbox)
-  - 🔥 &nbsp; Rust developer
-  - 🔇 &nbsp; Embraces silence
-  - ✨ &nbsp; Trying to be a minimalist
-  - ⚡ &nbsp; Working on [Merge Programming Language](https://github.com/utfeight/merge)
-  - ⌨️ &nbsp; NixOS + DWM user (also Neovim & Emacs)
-  - 🏳️ &nbsp; former Arch, Debian, Hyprland, JetBrains user.
-
+  - &nbsp; Learning Deustch
+  - &nbsp; Fan of the [gruvbox pallette](https://github.com/morhetz/gruvbox)
+  - &nbsp; NixOS + DWM user
 </p>
+-->
 
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=utfeight&theme=github">
 
