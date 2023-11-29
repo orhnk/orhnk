@@ -40,7 +40,7 @@
 
 <br>
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utfeight&theme=github">
 
 <!-- ![UTFeight](https://github-readme-stats.vercel.app/api/top-langs/?username=UTFeight&theme=gruvbox) -->
 <!--<img align="right" alt="UTFeight Github Stat" src="https://github-readme-stats.vercel.app/api?username=UTFeight&theme=gruvbox" width="360px"/> -->
