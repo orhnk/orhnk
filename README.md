@@ -1,37 +1,19 @@
-<h1 align="center">
-  <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="40"/> 
-    <code><b>camel_case</b></code>
-  <img src="https://media.tenor.com/VUH3A7tK-qgAAAAi/dm4uz3-foekoe.gif" width="40"/> 
-</h1>
-
-<!-- Image on right -->
-<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdsM3hhNHU2MjV4am9qMm5lYm5xYmZ2YWM2cTJsNnF5aTFzanpseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="300px"> -->
-<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R3MzBzM3dlMWlzYXJjeXBscWdibnNmMmE4a3h2dGlsZGZyYXY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif"> -->
-<!-- Coding Cowboy -->
-<!-- <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/nGMnDqebzDcfm/giphy.webp" width="360px"/> -->
-<!-- Coding Cartoon Crab -->
-<!-- <img align="right" alt="Coding Like a Cowboy" src="https://i.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.webp" width="360px"/> -->
-
-<!--
-<p align="center">  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  <h3>
-    <img src="https://media.tenor.com/PqFN1orijJ4AAAAi/crab-sneeth.gif" width="40"/> 
-    <strong>About</strong>
-    <img src="https://media.tenor.com/JqHpW37XDcsAAAAi/crab-crab-rave.gif" width="40"/> 
+  <h3 align="center">
+    ToDo List
   </h3>
-  - &nbsp; Learning Deustch
-  - &nbsp; Fan of the [gruvbox pallette](https://github.com/morhetz/gruvbox)
-  - &nbsp; NixOS + DWM user
+<p align="center">
+    Learn more about JetBrains MPS
 </p>
--->
 
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=utfeight&theme=github">
-
-<!-- ![UTFeight](https://github-readme-stats.vercel.app/api/top-langs/?username=UTFeight&theme=gruvbox) -->
-<!--<img align="right" alt="UTFeight Github Stat" src="https://github-readme-stats.vercel.app/api?username=UTFeight&theme=gruvbox" width="360px"/> -->
-
 
 <p align="center">
 <!-- Loved Tech -->
