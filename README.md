@@ -5,6 +5,10 @@
     Learn more about JetBrains MPS
 </p>
 
+<p align="center">
+  log4j vulnerability
+</p>
+
 <br>
 
 <br>
