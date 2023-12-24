@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utfeight&theme=github">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orhnk&theme=github">
 
 <p align="center">
 <!-- Loved Tech -->
@@ -41,8 +41,8 @@
 -----
 
 <p align="center">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utfeight&hide=jupyter%20notebook"/>
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=utfeight&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhnk&hide=jupyter%20notebook"/>
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=orhnk&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=camel_case"/>  
 </p>
 
