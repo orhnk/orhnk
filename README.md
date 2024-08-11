@@ -1,28 +1,3 @@
-  <h3 align="center">
-    ToDo List
-  </h3>
-<p align="center">
-    Learn more about JetBrains MPS
-</p>
-
-<p align="center">
-  log4j vulnerability
-</p>
-
-
-
-<p align="center">
-  Nix color utils flake
-</p>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=orhnk&theme=github">
 
 <p align="center">
